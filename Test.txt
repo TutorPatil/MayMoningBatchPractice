@@ -1,1 +1,2 @@
 This is the simple test file for testing git
+Adding a new line from Local
